@@ -1,5 +1,4 @@
 ﻿#language: ru
-@tree
 @ExportScenarios
 @IgnoreOnCIMainBuild
 
